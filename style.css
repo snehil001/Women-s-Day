@@ -1,0 +1,134 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+canvas{
+	position: absolute;
+	top: 0px;
+	display: block;
+	z-index : -1;
+}
+#aud_div{
+	position: absolute;
+	right: 0px;
+	bottom: 0px;
+}
+.mes_div{
+  padding: 5px;
+}
+.message{
+	color: #aaa;
+	text-align: right;
+}
+#p5_loading{
+	background: plum;
+	text-align: center;
+}
+@media (min-width: 1200px){
+  .ful-lg-1, .ful-lg-2, .ful-lg-3, .ful-lg-4, .ful-lg-5, .ful-lg-6,
+   .ful-lg-7, .ful-lg-8, .ful-lg-9, .ful-lg-10, .ful-lg-11, .ful-lg-12{
+    float: left;
+  }
+  .load-lg{
+  	font-size: 40px;
+  }
+  .mes-lg{
+  	font-size: 20px;
+  }
+  .ful-lg-1
+	{  width: 8.33%;  }
+	.ful-lg-2
+	{  width: 16.67%;  }
+	.ful-lg-3
+	{  width: 25.00%;  }
+	.ful-lg-4
+	{  width: 33.33%;  }
+	.ful-lg-5
+	{  width: 41.67%;  }
+	.ful-lg-6
+	{  width: 50.00%;  }
+	.ful-lg-7
+	{  width: 58.33%;  }
+	.ful-lg-8
+	{  width: 66.67%;  }
+	.ful-lg-9
+	{  width: 75.00%;  }
+	.ful-lg-10
+	{  width: 83.33%;  }
+	.ful-lg-11
+	{  width: 91.67%;  }
+	.ful-lg-12
+	{  width: 100.00%;  }
+}
+@media (min-width: 700px) and (max-width: 1199.5px){
+  .ful-md-1, .ful-md-2, .ful-md-3, .ful-md-4, .ful-md-5, .ful-md-6,
+   .ful-md-7, .ful-md-8, .ful-md-9, .ful-md-10, .ful-md-11, .ful-md-12{
+    float: left;
+  }
+  .load-md{
+  	font-size: 30px;
+  }
+  .mes-md{
+  	font-size: 18px;
+  }
+  .ful-md-1
+	{  width: 8.33%;  }
+	.ful-md-2
+	{  width: 16.67%;  }
+	.ful-md-3
+	{  width: 25.00%;  }
+	.ful-md-4
+	{  width: 33.33%;  }
+	.ful-md-5
+	{  width: 41.67%;  }
+	.ful-md-6
+	{  width: 50.00%;  }
+	.ful-md-7
+	{  width: 58.33%;  }
+	.ful-md-8
+	{  width: 66.67%;  }
+	.ful-md-9
+	{  width: 75.00%;  }
+	.ful-md-10
+	{  width: 83.33%;  }
+	.ful-md-11
+	{  width: 91.67%;  }
+	.ful-md-12
+	{  width: 100.00%;  }
+}
+@media (max-width: 699.5px){
+	.ful-sm-1, .ful-sm-2, .ful-sm-3, .ful-sm-4, .ful-sm-5, .ful-sm-6,
+   .ful-sm-7, .ful-sm-8, .ful-sm-9, .ful-sm-10, .ful-sm-11, .ful-sm-12{
+   	float: left;
+  }
+  .load-sm{
+  	font-size: 20px;
+  }
+  .mes-sm{
+  	font-size: 17px;
+  }
+  .ful-sm-1
+	{  width: 8.33%;  }
+	.ful-sm-2
+	{  width: 16.67%;  }
+	.ful-sm-3
+	{  width: 25.00%;  }
+	.ful-sm-4
+	{  width: 33.33%;  }
+	.ful-sm-5
+	{  width: 41.67%;  }
+	.ful-sm-6
+	{  width: 50.00%;  }
+	.ful-sm-7
+	{  width: 58.33%;  }
+	.ful-sm-8
+	{  width: 66.67%;  }
+	.ful-sm-9
+	{  width: 75.00%;  }
+	.ful-sm-10
+	{  width: 83.33%;  }
+	.ful-sm-11
+	{  width: 91.67%;  }
+	.ful-sm-12
+	{  width: 100.00%;  }
+}
